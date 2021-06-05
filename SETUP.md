@@ -12,7 +12,7 @@
 
 **2. Για να τρεξετε το bot :**
 
-`1ος Τροπος: Μεσα στον φακελο κανετε shift και δεξι κλικ! Ανοιγετε το windows powershell . Τρεχετε την εντολη `**npm install pm2**`. Οταν γινει install τρεχετε την εντολη pm2 start index.js . Γενικα να τρεχετε ετσι τα μποτακια σας και μετα οταν τρεχετε την εντολη  pm2 start index.js μπορειτε να εχετε μονιτορ , τρεχετε την εντολη pm2 monit .` 
+`1ος Τροπος: Μεσα στον φακελο κανετε shift και δεξι κλικ! Ανοιγετε το windows powershell . Τρεχετε την εντολη `**npm install pm2**`. Οταν γινει install τρεχετε την εντολη `**pm2 start index.js**` . Γενικα να τρεχετε ετσι τα μποτακια σας και μετα οταν τρεχετε την εντολη  `**pm2 start index.js**` μπορειτε να εχετε μονιτορ , τρεχετε την εντολη` **pm2 monit .**
 
 
 `2ος Τροπος: Μεσα στον φακελο κανετε shift και δεξι κλικ! Ανοιγετε το windows powershell . Τρεχετε την εντολη `**node .**` `
@@ -32,7 +32,7 @@
 
 **2. To run the bot:**
 
-`1st Way: Shift and right click inside the folder! Open windows powershell. Run the command `**npm install pm2**`. When the installation is done run the pm2 start index.js command. Generally run your boots like this and then when you run the pm2 start index.js command you can have a monitor, run the pm2 monit command.`
+`1st Way: Shift and right click inside the folder! Open windows powershell. Run the command `**npm install pm2**`. When the installation is done run the `**pm2 start index.js**` command. Generally run your boots like this and then when you run the `**pm2 start index.js**` command you can have a monitor, run the` **pm2 monit command.**
 
 
 `2nd Way: Shift and right click inside the folder! Open windows powershell. Run the `**node .**` command`
