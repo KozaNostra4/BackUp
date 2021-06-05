@@ -5,6 +5,9 @@
 
 **ΠΩΣ ΝΑ ΚΑΝΕΤΕ ΤΟ SETUP**
 
+**Πρωτα απο ολα χρειαζεται να τρεξετε τις εντολες** `npm i discord , npm i discord-backup , npm init -y`
+
+
 
 **1. Για να γίνει το configuration ανοίγετε το αρχείο config.json και περνάτε τα στοιχειά που χρειάζεται !**
 
@@ -25,7 +28,7 @@
 
 
 **HOW TO SETUP**
-
+**First of all you need to run the commands** `npm i discord , npm i discord-backup , npm init -y`
 
 **1. To do the configuration open the config.json file and pass the required data!**
 
